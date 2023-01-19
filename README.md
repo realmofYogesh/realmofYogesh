@@ -1,12 +1,40 @@
 ### Hi there 👋
+<center>
+<img class="img-fluid" src="[https://source.unsplash.com/C6oPXOatFD8](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)">
+</center>
 
-
-**My name is Yogesh.**  ✨ _CSE_ ✨  its `README.md` GitHub profile.
+**My name is Yogesh.**  ✨ _COMPUTER SCIENCE GRADUATE_ ✨ 
 
 
 - 🔭 I’m currently working on ... FrontEnd mini Project
 - 🌱 I’m currently learning ... ReactJS, DSA
 - 👯 I’m open to collaborate on ... WebDev Project
-- 📫 How to reach me: @yogesh_v_7
+- 📫 How to reach me: [@yogesh_v_7](https://twitter.com/yogesh_v_7)
 - ⚡ Learning is exciting...
+- ✨ Music, Cooking.
 
+
+
+## Connect with me:
+
+<p align="left">  
+<a href="https://twitter.com/yogesh_v_7" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://www.linkedin.com/in/yogeshvermaofficial/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<!-- <a href="https://www.youtube.com/c/TheAfricanDeveloper" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a> -->
+<!-- <a href="https://www.instagram.com/nextgencoders/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a> -->
+<!-- <a href="mailto:hillarynyk@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a> -->
+</p>
+
+
+## Languages and Tools:
+
+<p>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<!-- <img src="https://img.icons8.com/color/35/000000/python.png"> -->
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/git.png"/> 
+<!-- <img src="https://img.icons8.com/color/35/000000/github.png"/>  -->
+<img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
+</p>
