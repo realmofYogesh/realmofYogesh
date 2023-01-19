@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-![iRONiCBAT7](https://unsplash.com/photos/XJXWbfSo2f0)
 
-
-**My name is Yogesh.**  ✨ _COMPUTER SCIENCE GRADUATE_ ✨ 
+**My name is Yogesh**  ✨ _COMPUTER SCIENCE GRADUATE_ ✨ 
 
 
 - 🔭 I’m currently working on ... FrontEnd mini Project
