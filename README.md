@@ -1,7 +1,7 @@
 ### Hi there 👋
-<center>
-<img src="[https://unsplash.com/photos/XJXWbfSo2f0](https://unsplash.com/photos/842ofHC6MaI)" />
-</center>
+
+[https://unsplash.com/photos/XJXWbfSo2f0](https://unsplash.com/photos/842ofHC6MaI)"
+
 
 **My name is Yogesh.**  ✨ _COMPUTER SCIENCE GRADUATE_ ✨ 
 
