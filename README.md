@@ -1,40 +1,21 @@
 
 <h3> Hi  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4.2%">  नमस्ते (Namaste)</h3> 
 
-<h2 align="center"><img src="https://img.icons8.com/3d-fluency/42/null/hard-working.png"/>&nbsp;&nbsp; My name is Yogesh&nbsp; <img src="https://img.icons8.com/color/44/null/iron-man.png"/></h2>
+<h2 align="center">&nbsp;&nbsp; My name is YOGESH &nbsp; </h2>
 
 <br/>          
 
- <p align="center">
- ✨  क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ ✨
-
-</p>
-
-
-<div align="center">
-
-<a target="_blank" href="https://twitter.com/yogesh_v_7">
-<img src="https://img.icons8.com/3d-fluency/44/null/twitter-circled.png"/></a>&nbsp; <a target="_blank" href="https://www.linkedin.com/in/yogeshvermaofficial/">
-<img src="https://img.icons8.com/3d-fluency/44/null/linkedin.png"/></a>&nbsp; <a target="_blank" href="mailto:yogeshverma7141@gmail.com">
-<img src="https://img.icons8.com/3d-fluency/44/null/gmail.png"/>
-</a>
-
-</div>
-
-
-## 🚀 About me :
-
-- 👨‍💻&nbsp;&nbsp;I love to talk about Science and Technology.
-- 🌱 &nbsp;Currenty I'm learning React, DSA.
-- 🔭 &nbsp;Currently I'm trying to build a web dev project.
-- 📫 &nbsp;How to reach me: &nbsp; [Twitter](https://twitter.com/yogesh_v_7) | [Linkedin](https://www.linkedin.com/in/yogeshvermaofficial/)
-- ⚡ &nbsp;I like music, JWST images, reading tech articles, movies ...
+- 👨‍💻 &nbsp;I’m passionate about Science and Technology.
+- 🌱 &nbsp;Currently honing my skills in React and Data Structures & Algorithms (DSA).
+- 🔭 &nbsp;Building web development projects to sharpen my skills.
+- 📫 &nbsp;Reach me on: &nbsp; [Twitter](https://twitter.com/realmofyogesh) | [Linkedin](https://www.linkedin.com/in/realmofyogesh)
+- ⚡ &nbsp;I enjoy music, JWST imagery, tech articles, movies and open to explore and learn.
 
 <br/>
 
 <h3> 🛠 Tech Stack :  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44"></h3>
 
-<a target="_blank" href="https://www.java.com/en/"><img src="https://img.icons8.com/color/60/null/java-coffee-cup-logo--v1.png"/></a> &nbsp; <a target="_blank" href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/null/javascript--v1.png"/></a>  &nbsp;<a target="_blank" href="https://www.css3.com/"><img src="https://img.icons8.com/color/48/null/css3.png"/></a> &nbsp; <a target="_blank" href="https://dev.w3.org/html5/spec-LC/"><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/></a>  &nbsp;<a target="_blank" href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/null/git.png"/></a> 
+<a target="_blank" href="https://www.java.com/en/"><img src="https://img.icons8.com/color/60/null/java-coffee-cup-logo--v1.png"/></a> &nbsp; <a target="_blank" href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/null/javascript--v1.png"/></a>  &nbsp;<a target="_blank" href="https://www.css3.com/"><img src="https://img.icons8.com/color/48/null/css3.png"/></a> &nbsp; <a target="_blank" href="https://dev.w3.org/html5/spec-LC/"><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/></a>  &nbsp;<a target="_blank" href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/null/git.png"/></a> &nbsp; <a target="_blank" href="https://react.dev/"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" /></a>
 
 <br/>
 
@@ -44,9 +25,24 @@
 
 <br/>
 
+<br/>
+
+ <p align="center">✨ क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ✨ </p>
 
 
-<p align="center"> 
+<div align="center">
+
+<a target="_blank" href="https://twitter.com/realmofyogesh">
+<img src="https://img.icons8.com/3d-fluency/44/null/twitter-circled.png"/></a>&nbsp; &nbsp; &nbsp;   <a target="_blank" href="https://www.linkedin.com/in/realmofyogesh/">
+<img src="https://img.icons8.com/3d-fluency/44/null/linkedin.png"/></a>&nbsp; &nbsp; &nbsp;  <a target="_blank" href="mailto:vyogesh.official@gmail.com">
+<img src="https://img.icons8.com/3d-fluency/44/null/gmail.png"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="right"> 
 	<i> &nbsp; Views (Reload count) </i> <br>
 	 <img src="https://img.icons8.com/stickers/28/null/visible.png"/>  &nbsp;<img src="https://profile-counter.glitch.me/iRONiCBAT7/count.svg"  width="150px"/>
 </p>
